@@ -1,6 +1,6 @@
-# DL-intro-2022
+# A Gentle Introduction to Deep Learning 
 
-## Materials for IMPRS summer school workshop on Deep Learning
+## Materials for IMPRS summer school workshop
 
 ### interactive notebook
 - try out a simple CNN on MNIST with CNN-MNIST-Keras.ipynb
